@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5bce1e-aabe-46e6-b727-2e2e871cef76" name="Changes" comment="Создание БД для учебного предприятия.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa5bce1e-aabe-46e6-b727-2e2e871cef76" name="Changes" comment="Создание БД для учебного предприятия." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1d5e52ec-02cd-4556-8478-5f6b97575afd" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -182,6 +183,7 @@
       <workItem from="1713784887071" duration="2968000" />
       <workItem from="1713790036130" duration="492000" />
       <workItem from="1713797615942" duration="5000" />
+      <workItem from="1713798094819" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="Создание БД для учебного предприятия.">
       <created>1713790127870</created>
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713790462950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Создание БД для учебного предприятия.">
+      <created>1713798108769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713798108769</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
